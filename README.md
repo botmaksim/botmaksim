@@ -25,7 +25,7 @@ Software engineer and competitive programmer focused on high-performance backend
 
 | Domain | Technologies |
 | :--- | :--- |
-| **Languages** | C++20, Go, Java 17, Python 3, TypeScript, x86-64 Assembly, SQL |
+| **Languages** | C++20, Go, Java 17, Python 3, TypeScript, SQL |
 | **Systems & Architecture** | Multithreading, Cache Locality, SIMD Vectorization, AST Transformations, UCI Protocol, REST APIs |
 | **Frameworks & Tooling** | Qt6, Spring Boot, React, Vite, Node.js, Express, Docker, CMake, Gradle, GoogleTest |
 | **Data Storage** | PostgreSQL, SQLite, Redis |
