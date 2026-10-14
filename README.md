@@ -40,17 +40,17 @@ A ~2900 Elo UCI chess engine and web application. Implements bitboard board repr
 ### [GraphSolver](https://github.com/botmaksim/graph-solver)
 An interactive graph theory IDE built with C++17 and Qt. Contains implementations of Dinic's maximum flow algorithm, successive shortest path min-cost flow, VF2 subgraph isomorphism, DSatur heuristic graph coloring, Kosaraju strongly connected components, Dijkstra shortest paths, and Kruskal minimum spanning forest.
 
+### [poker-engine](https://github.com/botmaksim/poker-engine)
+A generalized, zero-allocation C++17 framework designed for poker variant simulations, hand evaluations, and game-theoretic tree solving. Conforms to the Universal Poker Interface Specification protocol for integration with external solvers and benchmarking harnesses.
+
+### [Mathforces](https://github.com/botmaksim/mathforces)
+A competitive mathematics contest platform built with C++17 and Qt6. Integrates a real-time submission evaluation pipeline, LaTeX formula syntax highlighting, automated Elo rating calculations, and client-server network architecture.
+
 ### [lingua-optima](https://github.com/botmaksim/lingua-optima)
 An automated language learning platform supporting CEFR A1 through C2 proficiency levels. Features an event-driven Java Spring Boot backend, Docker container orchestration, and AI-driven automated essay evaluation against IELTS rubrics.
 
 ### [famcs-coin](https://github.com/botmaksim/famcs-coin)
 A full-stack Telegram Mini App clicker game supporting community engagement. Built with Go, PostgreSQL, React, and Docker. Implements transactional balance management, event betting, item upgrades, and real-time leaderboard aggregation.
-
-### [Mathforces](https://github.com/botmaksim/mathforces)
-A competitive mathematics contest platform built with C++17 and Qt6. Integrates a real-time submission evaluation pipeline, LaTeX formula syntax highlighting, automated Elo rating calculations, and client-server network architecture.
-
-### [Smart Proxy Gateway](https://github.com/botmaksim/local-web)
-A containerized reverse proxy and dashboard designed to consolidate access to local network device web interfaces. Features dynamic path rewriting, asset body reference transformation, and device-scoped cookie isolation.
 
 ---
 
