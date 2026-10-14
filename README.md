@@ -1,4 +1,4 @@
-# Maksim Monastyrskiy
+# Maksim Manastyrski
 
 [![BSU FAMCS](https://img.shields.io/badge/BSU%20FAMCS-2nd%20Year-blue.svg)](https://fpmi.bsu.by/)
 [![YSDA](https://img.shields.io/badge/Admitted-Yandex%20SDA-yellow.svg)](https://shad.yandex.ru/)
